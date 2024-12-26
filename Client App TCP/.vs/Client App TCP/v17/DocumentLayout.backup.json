@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3d179\\source\\repos\\Client App TCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6277A407-8DF1-4BEC-A604-64CF1E525C70}|Client App TCP\\Client App TCP.csproj|c:\\users\\3d179\\source\\repos\\client app tcp\\client app tcp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6277A407-8DF1-4BEC-A604-64CF1E525C70}|Client App TCP\\Client App TCP.csproj|solutionrelative:client app tcp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6277A407-8DF1-4BEC-A604-64CF1E525C70}|Client App TCP\\Client App TCP.csproj|C:\\Users\\3d179\\source\\repos\\Client App TCP\\client app tcp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6277A407-8DF1-4BEC-A604-64CF1E525C70}|Client App TCP\\Client App TCP.csproj|solutionrelative:client app tcp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\3d179\\source\\repos\\Client App TCP\\Client App TCP\\MainForm.cs",
+              "RelativeDocumentMoniker": "Client App TCP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\3d179\\source\\repos\\Client App TCP\\Client App TCP\\MainForm.cs",
+              "RelativeToolTip": "Client App TCP\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:55:26.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\3d179\\source\\repos\\Client App TCP\\Client App TCP\\MainForm.cs",
+              "RelativeDocumentMoniker": "Client App TCP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\3d179\\source\\repos\\Client App TCP\\Client App TCP\\MainForm.cs [Design]",
+              "RelativeToolTip": "Client App TCP\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:55:18.394Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

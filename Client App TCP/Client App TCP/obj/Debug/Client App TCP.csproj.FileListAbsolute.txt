@@ -1,0 +1,10 @@
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\bin\Debug\Client App TCP.exe.config
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\bin\Debug\Client App TCP.exe
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\bin\Debug\Client App TCP.pdb
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\obj\Debug\Client App TCP.csproj.AssemblyReference.cache
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\obj\Debug\Client_App_TCP.Properties.Resources.resources
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\obj\Debug\Client App TCP.csproj.GenerateResource.cache
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\obj\Debug\Client App TCP.csproj.CoreCompileInputs.cache
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\obj\Debug\Client App TCP.exe
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\obj\Debug\Client App TCP.pdb
+C:\Users\3d179\source\repos\Client App TCP\Client App TCP\obj\Debug\ClientApp.MainForm.resources

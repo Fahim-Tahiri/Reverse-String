@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1734087655 source:c:\users\3d179\documents\server app tcp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<pthread.h>
+
